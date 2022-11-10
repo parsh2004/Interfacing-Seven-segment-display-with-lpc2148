@@ -85,16 +85,17 @@ unsigned char dig[]={0x88,0xeb,0x4c,0x49,0x2b,0x19,0x18,0xcb,0x8,0x9,0xa,0x38,0x
  
 
 
-### Result :
-LED seven segment display is interfaced and displayed alpha numeric characters 
-![o2](https://user-images.githubusercontent.com/95388047/201051865-63c531e0-3496-44ba-9cd4-01c1dc37b17d.png)
-![o1](https://user-images.githubusercontent.com/95388047/201051936-49b9236e-3232-411f-ab70-5d5e3a7527bf.png)
+
 
 ##  Output screen shots :
 ![o1](https://user-images.githubusercontent.com/95388047/201051711-08f8f6c8-5d33-47a3-84a4-6cebe6a75ee6.png)
 
 ![o2](https://user-images.githubusercontent.com/95388047/201051865-63c531e0-3496-44ba-9cd4-01c1dc37b17d.png)
 
+
+![o3](https://user-images.githubusercontent.com/95388047/201052311-7af5691a-53a2-480c-86df-12bfb1b3e17a.png)
+### Result :
+LED seven segment display is interfaced and displayed alpha numeric characters 
 
 
 
