@@ -1,8 +1,8 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	
-Roll no 
-Date of experiment:
+Name:	PARSHWANATH
+Roll no 21222130073
+Date of experiment: 10/11/2020
 
 
 
